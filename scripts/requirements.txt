@@ -1,0 +1,6 @@
+# No external dependencies required - uses Python standard library only
+# 
+# Optional: Install CFR decompiler for better decompilation results
+# brew install cfr-decompiler  (macOS)
+# or download from: https://www.benf.org/other/cfr/
+
